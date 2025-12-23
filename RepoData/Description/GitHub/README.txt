@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+3️⃣️🔳️🌐️ The official source repository for the website of the 3DE project, an extension for programs that adds 3D text with effects to existing text. The name is a portmanteau of 3D and IDE, as it originally was intended for IDEs. 
